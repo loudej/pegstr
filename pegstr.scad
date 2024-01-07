@@ -60,8 +60,8 @@ holder_sides = max(50, min(20, holder_x_size*2));
 
 // dimensions the same outside US?
 hole_spacing = 25.4;
-hole_size = 6;//6.0035;
-board_thickness = 5;
+hole_size = 5.85;//6.0035;
+board_thickness = 4;
 
 
 holder_total_x = wall_thickness + holder_x_count*(wall_thickness+holder_x_size);
